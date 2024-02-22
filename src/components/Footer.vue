@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/michel-barriere-abaa322a3/" target="_blank"><img src="../assets/images/linkedin.png" alt="linkedin" /></a>
     <a href="https://twitter.com/BarriereMi66111" target="_blank"><img src="../assets/images/twitter.png" alt="twitter" /></a>
     <p>&copy; 2024 - Mon Portfolio</p>
-    <p>Dernière mise à jour : <time datetime="2024-01-29">29 Janvier 2024</time></p>
+    <p>Dernière mise à jour : <time datetime="2024-02-22"> 22 Février 2024</time></p>
   </footer>
 </template>
 
