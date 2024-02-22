@@ -33,6 +33,7 @@ const projects = [
     description: "Mon second projet étais la création d'un cahier des charges, la consigne était la suivante création d'un fichier PDF avec une analyse concurrentielle, estimation des coûts et création de maquette.",
     img: "/src/assets/images/Cahier_Des_Charges_1.png",
     technologies: "gloomaps, figma",
+    githubLink:"https://github.com/Necron10000/CahierDesCharge"
     createdAt: "10 Novembre 2023",
     additionalPhotos: [
       "/src/assets/images/Cahier_Des_Charges_2.png",
